@@ -1,9 +1,7 @@
 # Classical Mating Kernel System
 
-*Advanced evolutionary computation with sophisticated visualization*
-
-A sophisticated PyQt5 desktop application implementing the **Computational Theory of AI Copulation and Hybridization**.  
-Features lineage tracking, epigenetic systems, neural interfaces.
+A sophisticated lightweight PyQt5 desktop application implementing the **Computational Theory of AI Copulation and Hybridization**.  
+Features lineage tracking, population simulation, epigenetic systems, neural interfaces.
 
 ---
 

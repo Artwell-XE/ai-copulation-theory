@@ -1,6 +1,6 @@
 # Classical Mating Kernel System
 
-A sophisticated PyQt5-based desktop application implementing the Computational Theory of AI Copulation and Hybridization. This system provides advanced evolutionary algorithms with features including lineage tracking, epigenetic systems, neural interfaces, and quantum entanglement simulation capabilities.
+A sophisticated PyQt5-based desktop application implementing the Computational Theory of AI Copulation and Hybridization. This system provides advanced evolutionary algorithms with features including lineage tracking, epigenetic systems, neural interfaces.
 
 ## Features
 
@@ -8,7 +8,6 @@ A sophisticated PyQt5-based desktop application implementing the Computational T
 - **Lineage Tracking**: Cryptographic ancestry tracing with immutable lineage identifiers
 - **Epigenetic System**: Reversible phenotypic switches with developmental plasticity
 - **Neural Interface**: Social-genetic interactions and coordinated recombination
-- **Quantum Simulation**: Quantum entanglement and non-local correlation effects
 - **Topological Analysis**: Advanced diversity metrics and population structure analysis
 - **Kill-Switch Protocol**: Ecological safeguards to prevent pathological evolution
 - **Comprehensive Visualization**: Real-time metrics, population distribution, and lineage trees

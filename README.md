@@ -19,10 +19,10 @@ Features lineage tracking, epigenetic systems, neural interfaces.
 | <img src="metrics.png" width="250" alt="Metrics Dashboard" /> | <img src="population.png" width="250" alt="Population Analysis" /> |
 | *Live generation metrics* | *Interactive diversity analysis* |
 
-| Lineage Tracking |
-| :---: |
-| <img src="lineage.png" width="250" alt="Lineage System" /> |
-| *Cryptographic ancestry trees* |
+| Lineage Tracking | Lineage Plot |
+| :--- | :--- |
+| <img src="lineaged.png" width="250" alt="Lineage System" /> | <img src="lineage.png" width="250" alt="Lineage plot" /> |
+| *Cryptographic ancestry trees* | *Lineage analysis* |
 
 ---
 

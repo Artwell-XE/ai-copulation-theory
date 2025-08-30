@@ -3,7 +3,7 @@
 A sophisticated lightweight PyQt5 desktop application implementing the **Computational Theory of AI Copulation and Hybridization**.  
 Features lineage tracking, population simulation, epigenetic systems, neural interfaces.
 
-- [Copulation Documentation](https://raw.githubusercontent.com/Artwell-XE/ai-copulation-theory/main/Copulation.html)
+- [Copulation Documentation](https://Artwell-XE.github.io/ai-copulation-theory/)
 
 ---
 

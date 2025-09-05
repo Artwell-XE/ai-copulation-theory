@@ -30,8 +30,7 @@ Features lineage tracking, population simulation, epigenetic systems, neural int
 - **6-D Mating Kernel** (α, β, γ, δ, ε, ζ)  
 - **Cryptographic Lineage IDs**  
 - **Reversible Epigenetic Switches**  
-- **Neural Social-Genetic Interface**  
-- **Quantum Entanglement & Non-local Correlations**  
+- **Neural Social-Genetic Interface**   
 - **Topological Diversity Metrics**  
 - **Ecological Kill-Switch**  
 
